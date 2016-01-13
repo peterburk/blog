@@ -20,7 +20,7 @@ The flash chip I need uses the TSOP48 package. I looked at photos online, and fo
 
 Fail No. 1: Ordered a Kingspec iPod Video 128GB SSD, because it looks like it uses TSOP48 chips. When it arrived, I saw that it has BGA chips. 
 
-<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0898.jpg" target="_blank"><img class="aligncenter" alt="Kingspec" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0898.JPG" width="128"></a>
+<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0898.JPG" target="_blank"><img class="aligncenter" alt="Kingspec" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0898.JPG" width="128"></a>
 
 It doesn’t even work in my iPod Video 5.5G, which is a real disappointment. But it works as advertised in my iPod Video 5G, so I can’t return it. To Kingspec’s credit, it is super fast and low-power. But I did spend $100 on something I don’t need. 
 
@@ -77,7 +77,7 @@ I managed to short out two pins on the original chip because the heat gun was to
 
 <a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0869.jpg" target="_blank">Un-shorted</a>
 
-<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0871.jpg" target="_blank"><img class="aligncenter" alt="TSOP48 soldered" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0871.JPG" width="128"></a>
+<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0871.JPG" target="_blank"><img class="aligncenter" alt="TSOP48 soldered" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0871.JPG" width="128"></a>
 
 I know that the connections were strong because I pulled the tape off the chip, and it stayed on the logic board. 
 
@@ -102,7 +102,7 @@ Diagnostics mode has a flash check, but doesn’t indicate the capacity.
 
 Fail No. 2: The iPod still thinks it’s only got 1GB capacity. 
 
-<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0878.jpg" target="_blank"><img class="aligncenter" alt="iTunes after mod" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0878.JPG" width="128"></a>
+<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0878.JPG" target="_blank"><img class="aligncenter" alt="iTunes after mod" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_0878.JPG" width="128"></a>
 
 ## Conclusion
 The mod didn’t work, but at least I didn’t break the iPod in the process. It was an expensive lesson. The 200GB iPod Nano on Uncyclopedia will remain a myth. 
@@ -118,4 +118,4 @@ Lessons learned:
 
 I still have my WiPod, though, so I’m satisfied for now. It’s the only iPod with WiFi, which works great to copy photos from SD cards to my iPhone. 
 
-<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_9640.jpg" target="_blank"><img class="aligncenter" alt="WiPod" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_9640.JPG" width="128"></a>
+<a href="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_9640.JPG" target="_blank"><img class="aligncenter" alt="WiPod" src="https://raw.githubusercontent.com/peterburk/blog/master/ipodnanophotos/IMG_9640.JPG" width="128"></a>
